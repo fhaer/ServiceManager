@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ServiceManager</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_package">Package</string>
+
+    <string name="package_services">Services:</string>
+    <string name="title_activity_profile">Profile</string>
+</resources>
